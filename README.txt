@@ -1,8 +1,3 @@
-# Shijir Bayarsaikhan
-# sbayarsa@vt.edu
-# ECE 5984 AI Project Final Report and Code
-# 5/10/2020
-# README
 
 # Application of the Convolutional Neural Network Architecture for Image Classification using Custom Created Images Composed of Digitally Drawn Digits 
 
